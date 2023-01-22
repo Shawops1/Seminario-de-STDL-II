@@ -1,0 +1,17 @@
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\02\Mini_Generador_Léxico\Mini_Generador_Léxico\bin\Debug\net6.0-windows\Mini_Generador_Léxico.exe
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\02\Mini_Generador_Léxico\Mini_Generador_Léxico\bin\Debug\net6.0-windows\Mini_Generador_Léxico.deps.json
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\02\Mini_Generador_Léxico\Mini_Generador_Léxico\bin\Debug\net6.0-windows\Mini_Generador_Léxico.runtimeconfig.json
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\02\Mini_Generador_Léxico\Mini_Generador_Léxico\bin\Debug\net6.0-windows\Mini_Generador_Léxico.dll
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\02\Mini_Generador_Léxico\Mini_Generador_Léxico\bin\Debug\net6.0-windows\Mini_Generador_Léxico.pdb
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\02\Mini_Generador_Léxico\Mini_Generador_Léxico\obj\Debug\net6.0-windows\Mini_Generador_Léxico.csproj.AssemblyReference.cache
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\02\Mini_Generador_Léxico\Mini_Generador_Léxico\obj\Debug\net6.0-windows\Mini_Generador_Léxico.Form1.resources
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\02\Mini_Generador_Léxico\Mini_Generador_Léxico\obj\Debug\net6.0-windows\Mini_Generador_Léxico.csproj.GenerateResource.cache
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\02\Mini_Generador_Léxico\Mini_Generador_Léxico\obj\Debug\net6.0-windows\Mini_Generador_Léxico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\02\Mini_Generador_Léxico\Mini_Generador_Léxico\obj\Debug\net6.0-windows\Mini_Generador_Léxico.AssemblyInfoInputs.cache
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\02\Mini_Generador_Léxico\Mini_Generador_Léxico\obj\Debug\net6.0-windows\Mini_Generador_Léxico.AssemblyInfo.cs
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\02\Mini_Generador_Léxico\Mini_Generador_Léxico\obj\Debug\net6.0-windows\Mini_Generador_Léxico.csproj.CoreCompileInputs.cache
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\02\Mini_Generador_Léxico\Mini_Generador_Léxico\obj\Debug\net6.0-windows\Mini_Generador_Léxico.dll
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\02\Mini_Generador_Léxico\Mini_Generador_Léxico\obj\Debug\net6.0-windows\refint\Mini_Generador_Léxico.dll
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\02\Mini_Generador_Léxico\Mini_Generador_Léxico\obj\Debug\net6.0-windows\Mini_Generador_Léxico.pdb
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\02\Mini_Generador_Léxico\Mini_Generador_Léxico\obj\Debug\net6.0-windows\Mini_Generador_Léxico.genruntimeconfig.cache
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\02\Mini_Generador_Léxico\Mini_Generador_Léxico\obj\Debug\net6.0-windows\ref\Mini_Generador_Léxico.dll
