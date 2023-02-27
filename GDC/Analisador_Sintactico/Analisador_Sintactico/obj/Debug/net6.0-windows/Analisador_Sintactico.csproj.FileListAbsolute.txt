@@ -1,0 +1,17 @@
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\05.2\Analisador_Sintactico\Analisador_Sintactico\bin\Debug\net6.0-windows\Analisador_Sintactico.exe
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\05.2\Analisador_Sintactico\Analisador_Sintactico\bin\Debug\net6.0-windows\Analisador_Sintactico.deps.json
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\05.2\Analisador_Sintactico\Analisador_Sintactico\bin\Debug\net6.0-windows\Analisador_Sintactico.runtimeconfig.json
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\05.2\Analisador_Sintactico\Analisador_Sintactico\bin\Debug\net6.0-windows\Analisador_Sintactico.dll
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\05.2\Analisador_Sintactico\Analisador_Sintactico\bin\Debug\net6.0-windows\Analisador_Sintactico.pdb
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\05.2\Analisador_Sintactico\Analisador_Sintactico\obj\Debug\net6.0-windows\Analisador_Sintactico.csproj.AssemblyReference.cache
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\05.2\Analisador_Sintactico\Analisador_Sintactico\obj\Debug\net6.0-windows\Analisador_Sintactico.Form1.resources
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\05.2\Analisador_Sintactico\Analisador_Sintactico\obj\Debug\net6.0-windows\Analisador_Sintactico.csproj.GenerateResource.cache
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\05.2\Analisador_Sintactico\Analisador_Sintactico\obj\Debug\net6.0-windows\Analisador_Sintactico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\05.2\Analisador_Sintactico\Analisador_Sintactico\obj\Debug\net6.0-windows\Analisador_Sintactico.AssemblyInfoInputs.cache
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\05.2\Analisador_Sintactico\Analisador_Sintactico\obj\Debug\net6.0-windows\Analisador_Sintactico.AssemblyInfo.cs
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\05.2\Analisador_Sintactico\Analisador_Sintactico\obj\Debug\net6.0-windows\Analisador_Sintactico.csproj.CoreCompileInputs.cache
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\05.2\Analisador_Sintactico\Analisador_Sintactico\obj\Debug\net6.0-windows\Analisador_Sintactico.dll
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\05.2\Analisador_Sintactico\Analisador_Sintactico\obj\Debug\net6.0-windows\refint\Analisador_Sintactico.dll
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\05.2\Analisador_Sintactico\Analisador_Sintactico\obj\Debug\net6.0-windows\Analisador_Sintactico.pdb
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\05.2\Analisador_Sintactico\Analisador_Sintactico\obj\Debug\net6.0-windows\Analisador_Sintactico.genruntimeconfig.cache
+D:\Escuela\Semestre 2023 A\SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II\05.2\Analisador_Sintactico\Analisador_Sintactico\obj\Debug\net6.0-windows\ref\Analisador_Sintactico.dll
